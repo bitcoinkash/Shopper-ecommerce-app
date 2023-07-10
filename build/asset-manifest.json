@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shopper-ecommerce-app/static/css/main.7170899a.css",
+    "main.js": "/Shopper-ecommerce-app/static/js/main.15a61c74.js",
+    "static/js/787.a91053ce.chunk.js": "/Shopper-ecommerce-app/static/js/787.a91053ce.chunk.js",
+    "index.html": "/Shopper-ecommerce-app/index.html",
+    "main.7170899a.css.map": "/Shopper-ecommerce-app/static/css/main.7170899a.css.map",
+    "main.15a61c74.js.map": "/Shopper-ecommerce-app/static/js/main.15a61c74.js.map",
+    "787.a91053ce.chunk.js.map": "/Shopper-ecommerce-app/static/js/787.a91053ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7170899a.css",
+    "static/js/main.15a61c74.js"
+  ]
+}
