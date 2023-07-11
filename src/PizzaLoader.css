@@ -1,0 +1,26 @@
+/* PizzaLoader.css */
+
+.pizza-loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: whitesmoke;
+}
+
+.pizza-loader {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #FBC02D;
+  animation: rotate 1.5s infinite linear;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

@@ -4,7 +4,7 @@ import Nav from './nav';
 import Rout from './rout';
 import Footer from './footer';
 import Productdetail from './productdetail';
-import Preloader from './Preloader';
+import PizzaLoader from './PizzaLoader';
 
 const App = () => {
   const [loading, setLoading] = useState(true);
@@ -17,7 +17,7 @@ const App = () => {
     // Simulate a delay to showcase the preloader
     setTimeout(() => {
       setLoading(false);
-    }, 5000);
+    }, 3000);
   }, []);
 
   const searchbtn = (product) => {
@@ -47,7 +47,7 @@ const App = () => {
   return (
     <>
       {loading ? (
-        <Preloader />
+        <PizzaLoader />
       ) : (
         <BrowserRouter>
           <Nav searchbtn={searchbtn} />
