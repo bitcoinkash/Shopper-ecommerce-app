@@ -1,15 +1,32 @@
 {
   "files": {
     "main.css": "/Shopper-ecommerce-app/static/css/main.7170899a.css",
-    "main.js": "/Shopper-ecommerce-app/static/js/main.15a61c74.js",
+    "main.js": "/Shopper-ecommerce-app/static/js/main.afb1d7bb.js",
     "static/js/787.a91053ce.chunk.js": "/Shopper-ecommerce-app/static/js/787.a91053ce.chunk.js",
+    "static/media/slider_img.png": "/Shopper-ecommerce-app/static/media/slider_img.144c7c5cfdbecc4d8f75.png",
+    "static/media/tp3.jpg": "/Shopper-ecommerce-app/static/media/tp3.576026fc7bfdf2a5bee3.jpg",
+    "static/media/cpu_heat.jpg": "/Shopper-ecommerce-app/static/media/cpu_heat.ab2d485fe38483aabb22.jpg",
+    "static/media/tp6.png": "/Shopper-ecommerce-app/static/media/tp6.ab2d485fe38483aabb22.png",
+    "static/media/tp8.jpg": "/Shopper-ecommerce-app/static/media/tp8.d3cd3526b4c3235a09ed.jpg",
+    "static/media/p10.jpg": "/Shopper-ecommerce-app/static/media/p10.6327e864f1cfccbf1331.jpg",
+    "static/media/tp4.jpg": "/Shopper-ecommerce-app/static/media/tp4.ed83c4e6c42101daed56.jpg",
+    "static/media/p9.jpg": "/Shopper-ecommerce-app/static/media/p9.394eb27873c9761dfb2a.jpg",
+    "static/media/tp1.jpg": "/Shopper-ecommerce-app/static/media/tp1.4a336f7f6d6c5217a1b9.jpg",
+    "static/media/p11.jpg": "/Shopper-ecommerce-app/static/media/p11.baa757c719c0f70c88bf.jpg",
+    "static/media/tp2.jpg": "/Shopper-ecommerce-app/static/media/tp2.45307f171baeac1717ea.jpg",
+    "static/media/tp5.jpg": "/Shopper-ecommerce-app/static/media/tp5.2a683b5e53c1ff138a16.jpg",
+    "static/media/tp7.jpg": "/Shopper-ecommerce-app/static/media/tp7.1820158f60cb83ccc7b8.jpg",
+    "static/media/Mobile_Phone.png": "/Shopper-ecommerce-app/static/media/Mobile_Phone.06baad773fd6ffb3b237.png",
+    "static/media/smart_watch.png": "/Shopper-ecommerce-app/static/media/smart_watch.951db009d44716894a22.png",
+    "static/media/headphone.png": "/Shopper-ecommerce-app/static/media/headphone.e129263a7cf140e39549.png",
+    "static/media/logo.svg": "/Shopper-ecommerce-app/static/media/logo.5f48cad7706d4c8d0c40694497cd4f14.svg",
     "index.html": "/Shopper-ecommerce-app/index.html",
     "main.7170899a.css.map": "/Shopper-ecommerce-app/static/css/main.7170899a.css.map",
-    "main.15a61c74.js.map": "/Shopper-ecommerce-app/static/js/main.15a61c74.js.map",
+    "main.afb1d7bb.js.map": "/Shopper-ecommerce-app/static/js/main.afb1d7bb.js.map",
     "787.a91053ce.chunk.js.map": "/Shopper-ecommerce-app/static/js/787.a91053ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7170899a.css",
-    "static/js/main.15a61c74.js"
+    "static/js/main.afb1d7bb.js"
   ]
 }
