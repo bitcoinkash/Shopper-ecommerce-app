@@ -4,6 +4,7 @@ import { RiFacebookFill } from 'react-icons/ri';
 import { AiOutlineTwitter } from 'react-icons/ai';
 import { BsYoutube } from 'react-icons/bs';
 import './footer.css'
+import images from './img/image';
 const Footer = () => {
   return (
     <>
@@ -11,10 +12,13 @@ const Footer = () => {
         <div className='container'>
             <div className='about'>
                 <div className='logo'>
-                    <img src='./img/logo.svg' alt='logo'></img>
+                    <img src={images.logo} alt='logo'></img>
                 </div>
                 <div className='detail'>
-                    <p>We are a team of designers and developers that create high quality WordPress</p>
+                    <p>Made with love from Montreal by
+                        <li> Suhail Parry</li>
+                        <li>Olivier Baptiste</li>
+                    </p>
                     <div className='icon'>
                         <li><RiFacebookFill /></li>
                         <li><AiOutlineInstagram /></li>

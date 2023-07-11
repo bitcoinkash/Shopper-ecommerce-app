@@ -8,6 +8,8 @@ import { CiLogout } from 'react-icons/ci';
 import { Link } from 'react-router-dom';
 import { useAuth0 } from "@auth0/auth0-react";
 import './nav.css'
+import images from './img/image';
+
 const Nav = ({searchbtn}) => {
     const [search, setSearch] = useState()
     const { loginWithRedirect, logout, user, isAuthenticated} = useAuth0();
@@ -22,7 +24,7 @@ const Nav = ({searchbtn}) => {
     <div className='main_header'>
         <div className='container'>
             <div className='logo'>
-                <img src='./img/logo.svg' alt='logo'></img>
+                <img src={images.logo} alt='logo'></img>
             </div>
             <div className='search_box'>
                 <input type='text' value={search} placeholder='Search Your Product...' autoComplete='off' onChange={(e) => setSearch(e.target.value)}></input>

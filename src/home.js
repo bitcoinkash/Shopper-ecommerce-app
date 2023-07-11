@@ -10,6 +10,7 @@ import { BsEye } from 'react-icons/bs';
 import { AiOutlineHeart } from 'react-icons/ai';
 import Homeproduct from './homeproduct.js';
 import './home.css'
+import images from './img/image.jsx';
 const Home = ({detail, view, close, setClose, addtocart}) => {
   return (
     <>
@@ -48,7 +49,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
                 <Link to='/product' className='link'>Shop Now <BsArrowRight /></Link>
             </div>
             <div className='img_box'>
-                <img src='./img/slider-img.png' alt='sliderimg'></img>
+                <img src={images.slider_img} alt='sliderimg'></img>
             </div>
         </div>
     </div>
@@ -56,7 +57,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
       <div className='container'>
         <div className='box'>
           <div className='img_box'>
-            <img src='./img/Mobile Phone.png' alt='mobile'></img>
+            <img src={images.Mobile_phone} alt='mobile'></img>
           </div>
           <div className='detail'>
             <p>23 products</p>
@@ -64,7 +65,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
         </div>
         <div className='box'>
           <div className='img_box'>
-            <img src='./img/smart watch.png' alt='watch'></img>
+            <img src={images.smart_watch} alt='watch'></img>
           </div>
           <div className='detail'>
             <p>18 products</p>
@@ -72,7 +73,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
         </div>
         <div className='box'>
           <div className='img_box'>
-            <img src='./img/headphone.png' alt='headphone'></img>
+            <img src={images.headphone} alt='headphone'></img>
           </div>
           <div className='detail'>
             <p>52 products</p>
@@ -80,7 +81,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
         </div>
         <div className='box'>
           <div className='img_box'>
-            <img src='./img/cpu heat.jpg' alt='cpu '></img>
+            <img src={images.cpu_heat} alt='cpu '></img>
           </div>
           <div className='detail'>
             <p>63 products</p>
@@ -164,7 +165,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
         <Link to='/product' className='link'>Shop Now  <BsArrowRight /></Link>
       </div>
       <div className='img_box'>
-        <img src='./img/slider-img.png' alt='sliderimg'></img>
+        <img src={images.slider_img} alt='sliderimg'></img>
       </div>
       </div>
     </div>

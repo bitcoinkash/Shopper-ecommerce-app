@@ -5,6 +5,7 @@ import { AiOutlineHeart, AiOutlineCloseCircle } from 'react-icons/ai';
 import { useAuth0 } from "@auth0/auth0-react";
 import Productdetail from './productdetail'
 import './product.css'
+import images from './img/image';
 const Product = ({product, setProduct, detail, view, close, setClose, addtocart}) => {
 
 
