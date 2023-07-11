@@ -39,32 +39,18 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+### Exploring the eCommerce App
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The app provides an eCommerce experience, allowing users to browse and purchase products. Some features are upcoming!
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **Product Listings**: Browse through a wide range of products with detailed descriptions, pricing, and images.
 
-### Code Splitting
+- **Product Search**: Use the search bar to quickly find specific products by their name, category, or any other relevant keywords.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **Shopping Cart**: Add products to your shopping cart, review the items, adjust quantities, and proceed to checkout.
 
-### Analyzing the Bundle Size
+- **User Authentication**: Sign up or log in to your account to access additional features, such as saved payment methods and order history.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- **Payment Processing**: Securely process payments using various payment methods, ensuring a smooth and safe checkout experience.
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Order Management**: View and manage your orders, track shipment status, and get notifications on order updates.
